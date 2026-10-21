@@ -1,0 +1,1 @@
+<resources><string name="service_description">清屏读取你启用应用的界面控件，在启动后的短时间内尝试点击明确的“跳过”按钮。界面内容仅在本机处理，不联网、不上传，不操作支付、授权或安装按钮。可随时在清屏中暂停或关闭本服务。</string><string name="app_unavailable">%1$s · 未安装或不可见</string></resources>
